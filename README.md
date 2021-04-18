@@ -1,0 +1,1 @@
+This is Ihor Yakymenko. Skilled in Python, Nodejs, PHP for Web Development. Expertise in Software Architecture, Internet Marketing, Artificial Intelligence, Machine Learning, Web Scrapping, Data Analytics.
